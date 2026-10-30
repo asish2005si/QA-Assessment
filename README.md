@@ -83,6 +83,8 @@ During testing, the following unexpected behaviours were observed:
 
 These observations should be supported by individual bug reports and screenshots.
 
+Google sheets link:https://docs.google.com/spreadsheets/d/1GZOnHi9mjbnBYDPCZe9is4zmQzNH48NDDqgjAg75lH8/edit?usp=sharing
+
 ---
 
 ### B. API Testing – JSONPlaceholder
